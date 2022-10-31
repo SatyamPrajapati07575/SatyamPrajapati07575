@@ -1,12 +1,11 @@
-ख़ूबसूरत लड़कियों का ख़्वाब लेकर
-इंजीनियरिंग कॉलेज में जाते है,
-पर चार साल के बाद सपने में
-Code और Error नजर आते है.
+- 👋 Hi, I’m @SatyamPrajapati07575
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript and git and github
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me .
+-   SatyamPrajapati07575/
 
-प्रोग्राम में एरर और GF का बर्थडे एक ही दिन आता है,
-ऐ खुदा इस तरह से तू मुझे क्यों सताता है.
-
-
-View more at: © www.feelthewords.com
-
-View more at: © www.feelthewords.com
+<!---
+SatyamPrajapati07575/SatyamPrajapati07575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
