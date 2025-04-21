@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Web Portfolio [https://satyamprajapati07575.github.io/my-portfolio/](https://satyamprajapati07575.github.io/my-portfolio/)
+- 👨‍💻 Web Portfolio [https://satyam-omega.vercel.app/](https://satyam-omega.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
